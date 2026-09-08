@@ -1,5 +1,5 @@
 export default function Botao() {
-    return(
-    <button>Button</button>
+    return (
+        <button>Button</button>
     )
 }
