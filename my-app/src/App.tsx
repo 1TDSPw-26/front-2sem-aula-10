@@ -7,7 +7,14 @@ export default function App() {
   return (
     <>
       <ObservadorDeRota />
+    <>
+      <ObservadorDeRota />
       <Cabecalho />
+      <Outlet />
+      <Rodape />
+    </>
+  );
+}
       <Outlet />
       <Rodape />
     </>
