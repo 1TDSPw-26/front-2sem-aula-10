@@ -11,7 +11,7 @@ export default function App() {
   return (
     <div>
       <Cabecalho />
-      <Conteudo />
+      <Ou />
       <Rodape />  
     </div>
   )
